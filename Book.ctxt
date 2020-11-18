@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Book
+comment1.params=type\ language
+comment1.target=Book(BookType,\ Language)
+comment2.params=
+comment2.target=void\ construct()
+comment3.params=
+comment3.target=BookType\ getType()
+comment4.params=type
+comment4.target=void\ setType(BookType)
+comment5.params=
+comment5.target=Language\ getLanguage()
+comment6.params=language
+comment6.target=void\ setLanguage(Language)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

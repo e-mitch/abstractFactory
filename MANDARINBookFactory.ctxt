@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MANDARINBookFactory
+comment1.params=type
+comment1.target=Book\ buildBook(BookType)
+numComments=2

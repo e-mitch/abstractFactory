@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hardcover
+comment1.params=language
+comment1.target=Hardcover(Language)
+comment2.params=
+comment2.target=void\ construct()
+numComments=3
